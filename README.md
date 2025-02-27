@@ -44,6 +44,6 @@ Sobre Mim...
     alt="Estatísticas do GitHub" 
     alta="200" 
     estilo="preenchimento-direito: 10px;" 
-    src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieelhenrique&tema=dark&layout=compacto&custom_title=Tecnologias&langs_count=9&card_width=10"
+    src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieelhenrique&tema=dark&layout=compacto&custom_title=Tecnologias&langs_count=9"
   />
 </p>
