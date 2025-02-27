@@ -36,7 +36,7 @@ Sobre Mim...
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src= "https://github-readme-stats.vercel.app/api?username=gabrieelhenrique&mostrar_icons=true&tema=dark&incluir_all_commits=true&localidade=pt-br"
+    src= "https://github-readme-stats.vercel.app/api?username=gabrieelhenrique&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
     />
 
   <img
@@ -44,6 +44,6 @@ Sobre Mim...
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;"  
-    src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieelhenrique&tema=dark&layout=compacto&custom_title=Tecnologias&langs_count=9"
+    src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieelhenrique&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
